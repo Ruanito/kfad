@@ -14,17 +14,3 @@ Prerequisites
 
 execute 'npm install'
 execute 'jasmine'
-
-Files
-----------------------------------
-kfda
-  css
- 	  --kfda.css
- 	spec
- 		support
- 			--jasmine.json
- 		--kfdaSpec.js
- 	src
- 		--kfda.js
- 	--README.md
- 	--package.json
